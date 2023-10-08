@@ -2,7 +2,7 @@
 
 ### Overview
 
-As part of the Full-Stack Web Development Internship with Bharat, you have successfully completed Task 1, which involved the creation of a versatile Project Management Tool. This web application integrates the concepts of social media interaction and task assignment, creating a unique platform that fosters teamwork, communication, and efficient project management. Developed using HTML, CSS, and JavaScript, this tool offers a user-friendly and accessible solution for individuals and organizations seeking an intuitive way to manage tasks and projects while maintaining social connectivity.
+As part of the Full-Stack Web Development Internship with Bharat Intern, I have successfully completed Task 2, which involved the creation of a versatile Project Management Tool. This web application integrates the concepts of social media interaction and task assignment, creating a unique platform that fosters teamwork, communication, and efficient project management. Developed using HTML, CSS, and JavaScript, this tool offers a user-friendly and accessible solution for individuals and organizations seeking an intuitive way to manage tasks and projects while maintaining social connectivity.
 
 ### Key Features
 
